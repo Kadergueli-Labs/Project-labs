@@ -1,56 +1,69 @@
 # Project Lab
 
-**Personal Projects · Technical Experiments · Practical Problem-Solving**
+**Data Science · Machine Learning · Artificial Intelligence · Software Development**
 
-Welcome to Project Lab, a workspace for building small projects, testing ideas, and exploring technologies across different areas of software development.
+Project Lab is a collection of technical projects focused on data-driven problem-solving, intelligent systems, and software development.
 
-This repository complements my larger independent projects by providing a place for prototypes, focused experiments, and practical implementations.
+The goal is to apply programming, analytical thinking, and modern technologies to real-world problems across different industries.
 
-## Project Areas
+## Project Domains
 
 ### 01. Data Science
-Small projects involving data analysis, statistics, visualization, and extracting insights from datasets.
 
-### 02. Artificial Intelligence
-Experiments with machine learning techniques, AI tools, and intelligent applications.
+Exploring data to understand business performance, financial activities, telecommunications, and agricultural systems.
 
-### 03. Data Engineering
-Explorations of data collection, processing, transformation, automation, and data pipelines.
+Areas of interest:
+- Business Analytics
+- Financial Data Analysis
+- Telecommunications Analytics
+- Agricultural Data Analysis
 
-### 04. Web Development
-Small web applications, APIs, and experiments with web technologies.
+### 02. Machine Learning
 
-### 05. Mobile Development
-Prototypes and experiments involving mobile application development.
+Developing and evaluating machine learning solutions for prediction, classification, segmentation, and other data-driven tasks.
 
-### 06. Other Experiments
-Technical explorations that do not yet belong to a specific category.
+This area will evolve as new problems and applications are explored.
+
+### 03. Artificial Intelligence
+
+Exploring intelligent applications, AI-powered tools, automation, and systems that combine data with AI technologies.
+
+### 04. Software Development
+
+Building practical software solutions, including web applications, mobile applications, and digital tools.
+
+Areas of interest:
+- Web Applications
+- Mobile Applications
+- Dashboards and Management Systems
+- Data-Driven Applications
 
 ## Project Documentation
 
-Each project should include, where applicable:
+Each project should document, where applicable:
 
-- A clear description of the problem or idea.
-- Objectives and expected outcomes.
-- Technologies and tools used.
-- Implementation details.
-- Results, limitations, and lessons learned.
-- Instructions for running the project.
+1. Problem statement and objectives.
+2. Data sources or system requirements.
+3. Tools and technologies.
+4. Methodology and implementation.
+5. Results and evaluation.
+6. Limitations and possible improvements.
 
 ## Development Principles
 
-- Keep experiments focused and understandable.
-- Document important technical decisions.
-- Use appropriate version control practices.
-- Respect software licenses and data usage requirements.
-- Promote reusable knowledge and continuous improvement.
+- Solve meaningful problems.
+- Write clear and maintainable code.
+- Document technical decisions.
+- Evaluate results honestly.
+- Respect data privacy, licenses, and attribution.
+- Improve projects through continuous learning.
 
-## Larger Projects
+## Project Status
 
-Projects that grow in scope or require independent documentation, dependencies, testing, or collaboration may receive their own repositories.
+Projects may be under development, completed, or experimental.
 
-This keeps Project Lab focused on smaller experiments while allowing substantial projects to evolve independently.
+Their documentation will indicate their current status and distinguish implemented features from future plans.
 
 ---
 
-*Explore ideas. Test solutions. Build through experimentation.*
+*Build with purpose. Analyze with evidence. Develop solutions that matter.*
